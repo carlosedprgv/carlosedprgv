@@ -1,4 +1,4 @@
-<h1 align="center">Olá 👋, seja bem-vindo(a) ao meu GitHub!</h1>
+<h1 align="center">Opa 👋</h1>
 
 <p align="center">
 Meu nome é Eduardo, sou Desenvolvedor Web, apaixoado por inovação e tecnologia
